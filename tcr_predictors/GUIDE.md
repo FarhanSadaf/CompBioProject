@@ -2,7 +2,7 @@
 
 Two published TCR–epitope predictors, set up to run on a Mac.
 
-## What this is for
+## Goal
 
 My job is to run two predictors that other people published, and report what
 they score. They are the outside reference point. When our team changes how
